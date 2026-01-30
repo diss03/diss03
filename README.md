@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"> Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align='center'"> Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -9,32 +9,26 @@
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FStDenis03)
 
 
-* ✉️  You can contact me at [d.v.stepanenko.work@gmail.com](mailto:d.v.stepanenko.work@gmail.com)
+
 * 👥  I'm looking to collaborate on interesting ML, CV projects
 
 I am Denis Stepanenko. I am from Saint-Peterburg, Russia and currently doing my M.Tech from Sait-Petersberg Electrotechnical University "LETI". I love to explore and learn about new things.
 
 
-### Skills
+### Tech stack
 
-**Cloud Services:**
+My work primarily revolves around data science and analysis using **Python** in **Google Colab** and **DS Lab** environments. For deployment and production, I utilize **Docker** for containerization and **PostgreSQL** for robust data management.
 
-![DS Lab](https://img.shields.io/badge/cloud-DS_Lab-blue?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjE5Mi4wMDAwMDBwdCIgaGVpZ2h0PSIxOTIuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAxOTIuMDAwMDAwIDE5Mi4wMDAwMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGEgZmlsbD0iI2ZmZmZmZiI%2BCkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxOTIuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTgwIDEzNDIgbDAgLTgwIDE2OCAtNCBjMTU1IC0zIDE3MSAtNSAyMjIgLTI5IDE0NiAtNjggMjE2IC0yMDQgMTc2IC0zNDEgLTIwIC03MSAtNTAgLTExNCAtMTEwIC0xNTkgLTcyIC01NSAtMTM2IC02OSAtMzA5IC02OSBsLTE0NyAwIDAgLTgwIDAgLTgwIDE0OSAwIGMxODMgMCAyMzQgOSAzMzcgNjAgMjc4IDEzNiAzNDcgNDY3IDE0NiA2OTEgLTU1IDYxIC0xMzEgMTEyIC0yMTAgMTQxIC00NyAxNyAtODggMjIgLTIzOSAyNiBsLTE4MyA0IDAgLTgweiIgZmlsbD0iI2ZmZmZmZiIvPgo8cGF0aCBkPSJNMTE4NyAxNDAzIGMtNjAgLTIwIC0xNDQgLTk0IC0xNjggLTE0OCAtMjUgLTU0IC0yNSAtMTU3IDAgLTIxMCAxMCAtMjIgNDEgLTYxIDY4IC04NyA2NyAtNjIgMTIzIC03OCAyNzEgLTc4IDEyOSAwIDE3MyAtMTQgMTk3IC02MSAxOSAtMzUgMTkgLTYzIDAgLTk4IC0yOCAtNTUgLTU5IC02MSAtMzE5IC02MSBsLTIzNiAwIDAgLTgxIDAgLTgwIDI2OCAzIDI2NyAzIDUxIDI3IGMxMDAgNTMgMTQ5IDEzMCAxNDkgMjM4IDAgNjQgLTQgODIgLTI3IDEyMSAtMzEgNTMgLTcyIDkwIC0xMzIgMTIxIC0zNSAxOCAtNjUgMjIgLTE5NCAyNyBsLTE1NCA2IC0yOSAzMyBjLTUwIDU2IC0zNiAxMzMgMzEgMTY3IDIzIDEyIDczIDE1IDI1MCAxNSBsMjIwIDAgMCA4MCAwIDgwIC0yMzIgLTEgYy0xODYgMCAtMjQzIC0zIC0yODEgLTE2eiIgZmlsbD0iI2ZmZmZmZiIvPgo8L2c%2BCjwvc3ZnPg%3D%3D)
-![Google Colab](https://img.shields.io/badge/cloud-Google_Colab-blue?logo=googlecolab)
-![Yandex DataSphere](https://img.shields.io/badge/cloud-Yandex_DataSphere-blue?logo=yandexcloud)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-blue?logo=googlecolab)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?logo=mongodb)
+![C](https://img.shields.io/badge/-C-blue?logo=C)
+![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=C%2B%2B)
+![DS Lab](https://img.shields.io/badge/-DS_Lab-blue?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjE5Mi4wMDAwMDBwdCIgaGVpZ2h0PSIxOTIuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAxOTIuMDAwMDAwIDE5Mi4wMDAwMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGEgZmlsbD0iI2ZmZmZmZiI%2BCkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxOTIuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTgwIDEzNDIgbDAgLTgwIDE2OCAtNCBjMTU1IC0zIDE3MSAtNSAyMjIgLTI5IDE0NiAtNjggMjE2IC0yMDQgMTc2IC0zNDEgLTIwIC03MSAtNTAgLTExNCAtMTEwIC0xNTkgLTcyIC01NSAtMTM2IC02OSAtMzA5IC02OSBsLTE0NyAwIDAgLTgwIDAgLTgwIDE0OSAwIGMxODMgMCAyMzQgOSAzMzcgNjAgMjc4IDEzNiAzNDcgNDY3IDE0NiA2OTEgLTU1IDYxIC0xMzEgMTEyIC0yMTAgMTQxIC00NyAxNyAtODggMjIgLTIzOSAyNiBsLTE4MyA0IDAgLTgweiIgZmlsbD0iI2ZmZmZmZiIvPgo8cGF0aCBkPSJNMTE4NyAxNDAzIGMtNjAgLTIwIC0xNDQgLTk0IC0xNjggLTE0OCAtMjUgLTU0IC0yNSAtMTU3IDAgLTIxMCAxMCAtMjIgNDEgLTYxIDY4IC04NyA2NyAtNjIgMTIzIC03OCAyNzEgLTc4IDEyOSAwIDE3MyAtMTQgMTk3IC02MSAxOSAtMzUgMTkgLTYzIDAgLTk4IC0yOCAtNTUgLTU5IC02MSAtMzE5IC02MSBsLTIzNiAwIDAgLTgxIDAgLTgwIDI2OCAzIDI2NyAzIDUxIDI3IGMxMDAgNTMgMTQ5IDEzMCAxNDkgMjM4IDAgNjQgLTQgODIgLTI3IDEyMSAtMzEgNTMgLTcyIDkwIC0xMzIgMTIxIC0zNSAxOCAtNjUgMjIgLTE5NCAyNyBsLTE1NCA2IC0yOSAzMyBjLTUwIDU2IC0zNiAxMzMgMzEgMTY3IDIzIDEyIDczIDE1IDI1MCAxNSBsMjIwIDAgMCA4MCAwIDgwIC0yMzIgLTEgYy0xODYgMCAtMjQzIC0zIC0yODEgLTE2eiIgZmlsbD0iI2ZmZmZmZiIvPgo8L2c%2BCjwvc3ZnPg%3D%3D)
+![Yandex DataSphere](https://img.shields.io/badge/-Yandex_DataSphere-blue?logo=yandexcloud)
 
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/langueage-Python-blue?logo=python)
-![C](https://img.shields.io/badge/langueage-C-blue?logo=C)
-![C++](https://img.shields.io/badge/langueage-C%2B%2B-blue?logo=C%2B%2B)
-
-**Tools and Services:**
-
-![PyTorch](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/tools-Docker-blue?logo=docker)
-![PostgreSQL](https://img.shields.io/badge/tools-PostgreSQL-blue?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/tools-MongoDB-blue?logo=mongodb)
 
 ![Statistics](https://github.com/diss03/github-stats-transparent/blob/e32fd6c7b9a0ff72e5b4d3d9cf03782364a34e44/generated/overview.svg)
 ![Top Languages](https://github.com/diss03/github-stats-transparent/blob/e32fd6c7b9a0ff72e5b4d3d9cf03782364a34e44/generated/languages.svg)
