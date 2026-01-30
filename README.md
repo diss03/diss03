@@ -2,15 +2,12 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fdiss03)
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenis-stepanenko-ba633b39b)
-![Codewars Badge](https://img.shields.io/badge/-Codewars-red?style=flat&logo=codewars&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FStDenis03)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&link=d.v.stepanenko.work%40gmail.com)
-![Telegram Badge](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FStDenis03)
+![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fdiss03)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenis-stepanenko-ba633b39b)
+![Codewars Badge](https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FStDenis03)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=d.v.stepanenko.work%40gmail.com)
+![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FStDenis03)
 
-
-
-* 👥  I'm looking to collaborate on interesting ML, CV projects
 
 I am Denis Stepanenko. I am from Saint-Peterburg, Russia and currently doing my M.Tech from Sait-Petersberg Electrotechnical University "LETI". I love to explore and learn about new things.
 
@@ -19,15 +16,15 @@ I am Denis Stepanenko. I am from Saint-Peterburg, Russia and currently doing my 
 
 My work primarily revolves around data science and analysis using **Python** in **Google Colab** and **DS Lab** environments. For deployment and production, I utilize **Docker** for containerization and **PostgreSQL** for robust data management.
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-blue?logo=googlecolab)
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-blue?logo=mongodb)
-![C](https://img.shields.io/badge/-C-blue?logo=C)
-![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=C%2B%2B)
-![DS Lab](https://img.shields.io/badge/-DS_Lab-blue?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjE5Mi4wMDAwMDBwdCIgaGVpZ2h0PSIxOTIuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAxOTIuMDAwMDAwIDE5Mi4wMDAwMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGEgZmlsbD0iI2ZmZmZmZiI%2BCkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxOTIuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTgwIDEzNDIgbDAgLTgwIDE2OCAtNCBjMTU1IC0zIDE3MSAtNSAyMjIgLTI5IDE0NiAtNjggMjE2IC0yMDQgMTc2IC0zNDEgLTIwIC03MSAtNTAgLTExNCAtMTEwIC0xNTkgLTcyIC01NSAtMTM2IC02OSAtMzA5IC02OSBsLTE0NyAwIDAgLTgwIDAgLTgwIDE0OSAwIGMxODMgMCAyMzQgOSAzMzcgNjAgMjc4IDEzNiAzNDcgNDY3IDE0NiA2OTEgLTU1IDYxIC0xMzEgMTEyIC0yMTAgMTQxIC00NyAxNyAtODggMjIgLTIzOSAyNiBsLTE4MyA0IDAgLTgweiIgZmlsbD0iI2ZmZmZmZiIvPgo8cGF0aCBkPSJNMTE4NyAxNDAzIGMtNjAgLTIwIC0xNDQgLTk0IC0xNjggLTE0OCAtMjUgLTU0IC0yNSAtMTU3IDAgLTIxMCAxMCAtMjIgNDEgLTYxIDY4IC04NyA2NyAtNjIgMTIzIC03OCAyNzEgLTc4IDEyOSAwIDE3MyAtMTQgMTk3IC02MSAxOSAtMzUgMTkgLTYzIDAgLTk4IC0yOCAtNTUgLTU5IC02MSAtMzE5IC02MSBsLTIzNiAwIDAgLTgxIDAgLTgwIDI2OCAzIDI2NyAzIDUxIDI3IGMxMDAgNTMgMTQ5IDEzMCAxNDkgMjM4IDAgNjQgLTQgODIgLTI3IDEyMSAtMzEgNTMgLTcyIDkwIC0xMzIgMTIxIC0zNSAxOCAtNjUgMjIgLTE5NCAyNyBsLTE1NCA2IC0yOSAzMyBjLTUwIDU2IC0zNiAxMzMgMzEgMTY3IDIzIDEyIDczIDE1IDI1MCAxNSBsMjIwIDAgMCA4MCAwIDgwIC0yMzIgLTEgYy0xODYgMCAtMjQzIC0zIC0yODEgLTE2eiIgZmlsbD0iI2ZmZmZmZiIvPgo8L2c%2BCjwvc3ZnPg%3D%3D)
-![Yandex DataSphere](https://img.shields.io/badge/-Yandex_DataSphere-blue?logo=yandexcloud)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=googlecolab&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![DS Lab](https://img.shields.io/badge/-DS_Lab-005588?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjE5Mi4wMDAwMDBwdCIgaGVpZ2h0PSIxOTIuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAxOTIuMDAwMDAwIDE5Mi4wMDAwMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGEgZmlsbD0iI2ZmZmZmZiI+CkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxOTIuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTgwIDEzNDIgbDAgLTgwIDE2OCAtNCBjMTU1IC0zIDE3MSAtNSAyMjIgLTI5IDE0NiAtNjggMjE2IC0yMDQgMTc2IC0zNDEgLTIwIC03MSAtNTAgLTExNCAtMTEwIC0xNTkgLTcyIC01NSAtMTM2IC02OSAtMzA5IC02OSBsLTE0NyAwIDAgLTgwIDAgLTgwIDE0OSAwIGMxODMgMCAyMzQgOSAzMzcgNjAgMjc4IDEzNiAzNDcgNDY3IDE0NiA2OTEgLTU1IDYxIC0xMzEgMTEyIC0yMTAgMTQxIC00NyAxNyAtODggMjIgLTIzOSAyNiBsLTE4MyA0IDAgLTgweiIgZmlsbD0iI2ZmZmZmZiIvPgo8cGF0aCBkPSJNMTE4NyAxNDAzIGMtNjAgLTIwIC0xNDQgLTk0IC0xNjggLTE0OCAtMjUgLTU0IC0yNSAtMTU3IDAgLTIxMCAxMCAtMjIgNDEgLTYxIDY4IC04NyA2NyAtNjIgMTIzIC03OCAyNzEgLTc4IDEyOSAwIDE3MyAtMTQgMTk3IC02MSAxOSAtMzUgMTkgLTYzIDAgLTk4IC0yOCAtNTUgLTU5IC02MSAtMzE5IC02MSBsLTIzNiAwIDAgLTgxIDAgLTgwIDI2OCAzIDI2NyAzIDUxIDI3IGMxMDAgNTMgMTQ5IDEzMCAxNDkgMjM4IDAgNjQgLTQgODIgLTI3IDEyMSAtMzEgNTMgLTcyIDkwIC0xMzIgMTIxIC0zNSAxOCAtNjUgMjIgLTE5NCAyNyBsLTE1NCA2IC0yOSAzMyBjLTUwIDU2IC0zNiAxMzMgMzEgMTY3IDIzIDEyIDczIDE1IDI1MCAxNSBsMjIwIDAgMCA4MCAwIDgwIC0yMzIgLTEgYy0xODYgMCAtMjQzIC0zIC0yODEgLTE2eiIgZmlsbD0iI2ZmZmZmZiIvPgo8L2c+Cjwvc3ZnPg%3D%3D&logoColor=white)
+![Yandex DataSphere](https://img.shields.io/badge/-Yandex_DataSphere-FFCC00?logo=yandexcloud&logoColor=black)
 
 
 ![Statistics](https://github.com/diss03/github-stats-transparent/blob/e32fd6c7b9a0ff72e5b4d3d9cf03782364a34e44/generated/overview.svg)
@@ -79,4 +76,22 @@ My work primarily revolves around data science and analysis using **Python** in 
 </table>
 </details>
 <!-- end work project section -->
+
+<!-- start my research papers -->
+<details>
+<summary><b> My Research Papers :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Paper Name</th>
+      <th>Skills used</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+      
+  </tbody>
+</table>
+</details>
+<!-- end my research papers  -->
 
