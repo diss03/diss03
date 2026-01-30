@@ -25,17 +25,14 @@ Data Scientist
 **Cloud Services:**
 
 ![DS Lab](https://img.shields.io/badge/cloud-DS_Lab-blue?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjE5Mi4wMDAwMDBwdCIgaGVpZ2h0PSIxOTIuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAxOTIuMDAwMDAwIDE5Mi4wMDAwMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGEgZmlsbD0iI2ZmZmZmZiI%2BCkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxOTIuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTgwIDEzNDIgbDAgLTgwIDE2OCAtNCBjMTU1IC0zIDE3MSAtNSAyMjIgLTI5IDE0NiAtNjggMjE2IC0yMDQgMTc2IC0zNDEgLTIwIC03MSAtNTAgLTExNCAtMTEwIC0xNTkgLTcyIC01NSAtMTM2IC02OSAtMzA5IC02OSBsLTE0NyAwIDAgLTgwIDAgLTgwIDE0OSAwIGMxODMgMCAyMzQgOSAzMzcgNjAgMjc4IDEzNiAzNDcgNDY3IDE0NiA2OTEgLTU1IDYxIC0xMzEgMTEyIC0yMTAgMTQxIC00NyAxNyAtODggMjIgLTIzOSAyNiBsLTE4MyA0IDAgLTgweiIgZmlsbD0iI2ZmZmZmZiIvPgo8cGF0aCBkPSJNMTE4NyAxNDAzIGMtNjAgLTIwIC0xNDQgLTk0IC0xNjggLTE0OCAtMjUgLTU0IC0yNSAtMTU3IDAgLTIxMCAxMCAtMjIgNDEgLTYxIDY4IC04NyA2NyAtNjIgMTIzIC03OCAyNzEgLTc4IDEyOSAwIDE3MyAtMTQgMTk3IC02MSAxOSAtMzUgMTkgLTYzIDAgLTk4IC0yOCAtNTUgLTU5IC02MSAtMzE5IC02MSBsLTIzNiAwIDAgLTgxIDAgLTgwIDI2OCAzIDI2NyAzIDUxIDI3IGMxMDAgNTMgMTQ5IDEzMCAxNDkgMjM4IDAgNjQgLTQgODIgLTI3IDEyMSAtMzEgNTMgLTcyIDkwIC0xMzIgMTIxIC0zNSAxOCAtNjUgMjIgLTE5NCAyNyBsLTE1NCA2IC0yOSAzMyBjLTUwIDU2IC0zNiAxMzMgMzEgMTY3IDIzIDEyIDczIDE1IDI1MCAxNSBsMjIwIDAgMCA4MCAwIDgwIC0yMzIgLTEgYy0xODYgMCAtMjQzIC0zIC0yODEgLTE2eiIgZmlsbD0iI2ZmZmZmZiIvPgo8L2c%2BCjwvc3ZnPg%3D%3D)
-
 ![Google Colab](https://img.shields.io/badge/cloud-Google_Colab-blue?logo=googlecolab)
-
 ![Yandex DataSphere](https://img.shields.io/badge/cloud-Yandex_DataSphere-blue?logo=yandexcloud)
 
 **Programming Languages:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![C++](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-
+![Python](https://img.shields.io/badge/langueage-Python-blue?logo=python)
+![C](https://img.shields.io/badge/langueage-C-blue?logo=C)
+![C++](https://img.shields.io/badge/langueage-C%2B%2B-blue?logo=C%2B%2B)
 
 **Tools and Services:**
 
