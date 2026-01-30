@@ -56,7 +56,7 @@ Data Scientist
   </thead>
   <tbody>
      <tr>
-      <td><b><a href="https://www.rsystems.com/">R Systems</a> </b></td>
+      <td><b><a href="https://www.stc-spb.ru/">STC</a> </b></td>
       <td>Data Science Trainee</td>
       <td>Creating NN, imporing efficiency</td>
       <td>JUN 2024 - JUN 2024</td>
@@ -83,44 +83,8 @@ Data Scientist
       <td>Python</td>
       <td>this is my first flask project</td>
     </tr>
-    <tr>
-      <td><a href='https://keshavsingh3197.github.io/Projects/Calculator/'>Calculator</a></td>
-      <td>Html,Css</td>
-      <td>It is a simple calculator which do +,-,\*,/  operation</td>
-    </tr>
-    <tr>
-      <td><a href="https://keshavsingh3197.github.io/Projects/CodeEditor/">CodeEditor</a></td>
-      <td>HTML,CSS,Javascript</td>
-      <td>write html cod here and the result will display there</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh3197.github.io/Projects/Wordpad/'>Wordpad</a></td>
-      <td>Html,CSS,Javascript</td>
-      <td>its functionality look like as wordpad</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh3197.github.io/Projects/address%20maker/'>Address Maker</a></td>
-      <td>Html,CSS,Javascript</td>
-      <td> It generates an address in design format by filling in the details</td>
-    </tr>
-    <tr>
-      <td><a href="https://keshavsingh3197.github.io/Projects/switcher-app/">Switcher app</a></td>
-      <td>HTML,CSS,jQuery</td>
-      <td>It changes  the text color by dragging and dropping color on text</td>
-    </tr>
-    <tr>
-      <td><a href='https://keshavsingh3197.github.io/music-player/'>Music Player</a></td>
-      <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
-      <td>add songs and play music, it also uses to store data in  INDEXEDB Database by which we can play songs, if we do not clear the catch then the song will remain stored in a database.</td>
-    </tr>
   </tbody>
 </table>
 </details>
 <!-- end work project section -->
-
-<!-- start statics fun section -->
-<details>
-</div>
-</details>
-<!-- end statics fun section -->
 
