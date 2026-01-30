@@ -18,13 +18,17 @@ Data Scientist
 
 <a href="https://github.com/diss03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diss03&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🔧 Technologies & Tools
+### Projects
+
+### Tech Stack
 
 **Cloud Services:**
 
-![DS Lab](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![DS Lab](https://img.shields.io/badge/cloud-DS_Lab-blue?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjE5Mi4wMDAwMDBwdCIgaGVpZ2h0PSIxOTIuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAxOTIuMDAwMDAwIDE5Mi4wMDAwMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgo8bWV0YWRhdGEgZmlsbD0iI2ZmZmZmZiI%2BCkNyZWF0ZWQgYnkgcG90cmFjZSAxLjE2LCB3cml0dGVuIGJ5IFBldGVyIFNlbGluZ2VyIDIwMDEtMjAxOQo8L21ldGFkYXRhPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwxOTIuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIiBmaWxsPSIjZmZmZmZmIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTgwIDEzNDIgbDAgLTgwIDE2OCAtNCBjMTU1IC0zIDE3MSAtNSAyMjIgLTI5IDE0NiAtNjggMjE2IC0yMDQgMTc2IC0zNDEgLTIwIC03MSAtNTAgLTExNCAtMTEwIC0xNTkgLTcyIC01NSAtMTM2IC02OSAtMzA5IC02OSBsLTE0NyAwIDAgLTgwIDAgLTgwIDE0OSAwIGMxODMgMCAyMzQgOSAzMzcgNjAgMjc4IDEzNiAzNDcgNDY3IDE0NiA2OTEgLTU1IDYxIC0xMzEgMTEyIC0yMTAgMTQxIC00NyAxNyAtODggMjIgLTIzOSAyNiBsLTE4MyA0IDAgLTgweiIgZmlsbD0iI2ZmZmZmZiIvPgo8cGF0aCBkPSJNMTE4NyAxNDAzIGMtNjAgLTIwIC0xNDQgLTk0IC0xNjggLTE0OCAtMjUgLTU0IC0yNSAtMTU3IDAgLTIxMCAxMCAtMjIgNDEgLTYxIDY4IC04NyA2NyAtNjIgMTIzIC03OCAyNzEgLTc4IDEyOSAwIDE3MyAtMTQgMTk3IC02MSAxOSAtMzUgMTkgLTYzIDAgLTk4IC0yOCAtNTUgLTU5IC02MSAtMzE5IC02MSBsLTIzNiAwIDAgLTgxIDAgLTgwIDI2OCAzIDI2NyAzIDUxIDI3IGMxMDAgNTMgMTQ5IDEzMCAxNDkgMjM4IDAgNjQgLTQgODIgLTI3IDEyMSAtMzEgNTMgLTcyIDkwIC0xMzIgMTIxIC0zNSAxOCAtNjUgMjIgLTE5NCAyNyBsLTE1NCA2IC0yOSAzMyBjLTUwIDU2IC0zNiAxMzMgMzEgMTY3IDIzIDEyIDczIDE1IDI1MCAxNSBsMjIwIDAgMCA4MCAwIDgwIC0yMzIgLTEgYy0xODYgMCAtMjQzIC0zIC0yODEgLTE2eiIgZmlsbD0iI2ZmZmZmZiIvPgo8L2c%2BCjwvc3ZnPg%3D%3D)
+
 ![Google Colab](https://img.shields.io/badge/cloud-Google_Colab-blue?logo=googlecolab)
-![Yandex DataSphere](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+
+![Yandex DataSphere](https://img.shields.io/badge/cloud-Yandex_DataSphere-blue?logo=yandexcloud)
 
 **Programming Languages:**
 
