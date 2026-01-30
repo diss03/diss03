@@ -41,7 +41,8 @@ Data Scientist
 ![PostgreSQL](https://img.shields.io/badge/tools-PostgreSQL-blue?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/tools-MongoDB-blue?logo=mongodb)
 
-https://github.com/diss03/github-stats-transparent/blob/e32fd6c7b9a0ff72e5b4d3d9cf03782364a34e44/generated/languages.svg
+![Top Languages](https://github.com/diss03/github-stats-transparent/blob/e32fd6c7b9a0ff72e5b4d3d9cf03782364a34e44/generated/languages.svg)
+
 
 
 ## <h3 align="left">GitHub Stats</h3>
