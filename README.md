@@ -47,7 +47,7 @@ My work primarily revolves around data science and analysis using **Python** in 
      <tr>
       <td><b><a href="https://www.stc-spb.ru/">STC</a> </b></td>
       <td>Data Science Trainee</td>
-      <td>Creating NN, imporing efficiency</td>
+      <td>Creating NN, improving efficiency</td>
       <td>JUN 2024 - JUN 2024</td>
     </tr>
   </tbody>
