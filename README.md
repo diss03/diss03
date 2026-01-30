@@ -2,8 +2,6 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Data Scientist
---------------
 
 * ✉️  You can contact me at [d.v.stepanenko.work@gmail.com](mailto:d.v.stepanenko.work@gmail.com)
 * 👥  I'm looking to collaborate on interesting ML, CV projects
