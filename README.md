@@ -2,11 +2,11 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hemanthkollipara)
-[![Codewars Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/Defcon27)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
+![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2Fdiss03)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenis-stepanenko-ba633b39b)
+![Codewars Badge](https://img.shields.io/badge/-Codewars-red?style=flat&logo=codewars&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FStDenis03)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&link=d.v.stepanenko.work%40gmail.com)
+![Telegram Badge](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FStDenis03)
 
 
 * ✉️  You can contact me at [d.v.stepanenko.work@gmail.com](mailto:d.v.stepanenko.work@gmail.com)
