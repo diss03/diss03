@@ -2,11 +2,11 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fdiss03)
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdenis-stepanenko-ba633b39b)
-![Codewars Badge](https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FStDenis03)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=d.v.stepanenko.work%40gmail.com)
-![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FStDenis03)
+[![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/diss03)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-stepanenko-ba633b39b)
+[![Codewars Badge](https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/StDenis03)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d.v.stepanenko.work@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/StDenis03)
 
 
 I am Denis Stepanenko. I am from Saint-Peterburg, Russia and currently doing my M.Tech from Sait-Petersberg Electrotechnical University "LETI". I love to explore and learn about new things.
@@ -57,7 +57,7 @@ My work primarily revolves around data science and analysis using **Python** in 
 
 <!-- start work project section -->
 <details>
-<summary><b> My Work Project :point_right:</b></summary>
+<summary><b> My Projects :point_right:</b></summary>
 <table>
   <thead>
     <tr>
