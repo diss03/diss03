@@ -23,7 +23,7 @@ Data Scientist
 **Cloud Services:**
 
 ![DS Lab](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Google Colab](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![Google Colab](https://img.shields.io/badge/cloud-Google_Colab-blue?logo=googlecolab)
 ![Yandex DataSphere](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 
 **Programming Languages:**
