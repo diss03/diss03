@@ -52,3 +52,4 @@ Data Scientist
 <a />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diss03&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Statistics](https://github.com/diss03/github-stats-transparent/blob/e32fd6c7b9a0ff72e5b4d3d9cf03782364a34e44/generated/overview.svg)
