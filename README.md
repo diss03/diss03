@@ -1,4 +1,4 @@
-Hi 👋 My name is Denis!
+Hello 👋 I'm Denis Stepanenko!
 =======================
 
 Data Scientist
