@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d.v.stepanenko.work@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/StDenis03)
 
-I am a 21-year-old Data Science enthusiast from Saint-Petersburg, Russia, pursuing a Master's in Computer Science (Distributed Intelligent Systems and Technologies) at [Saint-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/). With hands-on experience in neural networks, data analysis, and machine learning I specialise in Python-based workflows for computer vision in medicine. I am keen to explore NLP and agent systems. Currently seeking opportunities as a junior data scientist and am interested in participating in stimulating projects.
+I am a 21-year-old Data Science enthusiast from Saint-Petersburg, Russia, pursuing a Master's in Computer Science (Distributed Intelligent Systems and Technologies) at [Saint-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/). With hands-on experience in neural networks, data analysis, and machine learning I specialise in Python-based workflows for computer vision in medicine. I am keen to explore NLP and agent systems. Currently seeking opportunities as a junior data scientist and interested in participating in stimulating projects.
 
 ### Tech stack
 
