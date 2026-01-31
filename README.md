@@ -2,17 +2,13 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-I am a 21-year-old Data Science enthusiast from Saint-Petersburg, Russia, pursuing a Master's in Computer Science (Distributed Intelligent Systems and Technologies) at [Saint-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/). With hands-on experience in neural networks, data analysis, and machine learning. I specialise in Python-based workflows for computer vision. I am keen to explore NLP and agent systems. Currently seeking opportunities as a junior data scientist and am interested in participating in stimulating projects.
-
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/diss03)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-stepanenko-ba633b39b)
 [![Codewars Badge](https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/StDenis03)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:d.v.stepanenko.work@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/StDenis03)
 
-
-I am Denis Stepanenko. I am from Saint-Peterburg, Russia and currently doing my M.Tech from [Sait-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/). I love to explore and learn about new things.
-
+I am a 21-year-old Data Science enthusiast from Saint-Petersburg, Russia, pursuing a Master's in Computer Science (Distributed Intelligent Systems and Technologies) at [Saint-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/). With hands-on experience in neural networks, data analysis, and machine learning. I specialise in Python-based workflows for computer vision in medicine. I am keen to explore NLP and agent systems. Currently seeking opportunities as a junior data scientist and am interested in participating in stimulating projects.
 
 ### Tech stack
 
@@ -49,8 +45,8 @@ My work primarily revolves around data science and analysis using **Python** in 
      <tr>
       <td><b><a href="https://www.stc-spb.ru/">STC</a> </b></td>
       <td>Data Science Trainee</td>
-      <td>Creating NN, improving efficiency</td>
-      <td>JUN 2024 - JUN 2024</td>
+      <td>Trained two neural networks for radar signal detection and classification using PyTorch; improved smoke detection model efficiency by 10% through architecture optimization and data augmentation</td>
+      <td>JUN 2024</td>
     </tr>
   </tbody>
 </table>
