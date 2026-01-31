@@ -91,5 +91,7 @@ My work primarily revolves around data science and analysis using **Python** in 
   </tbody>
 </table>
 </details>
+
+View my full resume: [Download PDF]()
 <!-- end my research papers  -->
 
