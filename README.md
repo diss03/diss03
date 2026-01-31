@@ -1,6 +1,8 @@
-<h2 align='center'"> Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align='center'"> Denis Stepanenko | Data Scientist</h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+I am a 21-year-old Data Science enthusiast from Saint-Petersburg, Russia, pursuing a Master's in Computer Science (Distributed Intelligent Systems and Technologies) at [Saint-Petersburg Electrotechnical University "LETI"](https://etu.ru/en/university/). With hands-on experience in neural networks, data analysis, and machine learning. I specialise in Python-based workflows for computer vision. I am keen to explore NLP and agent systems. Currently seeking opportunities as a junior data scientist and am interested in participating in stimulating projects.
 
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/diss03)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-stepanenko-ba633b39b)
