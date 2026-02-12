@@ -92,6 +92,6 @@ My work primarily revolves around data science and analysis using **Python** in 
 </table>
 </details>
 
-View my full resume: [Download PDF]()
+View my full resume: [Download PDF](Denis_Stepanenko_resume.pdf)
 <!-- end my research papers  -->
 
